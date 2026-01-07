@@ -38,19 +38,9 @@ The EDA phase focuses on:
 - Product and customer segmentation
 - Correlation analysis between key metrics
 
-📘 Notebook:  
-👉 [`EDA_Regional_Sales_Analysis.ipynb`](notebooks/EDA_Regional_Sales_Analysis.ipynb)
-
-📊 Clean dataset used in Power BI:  
-👉 [`Sales_data_EDA_Exported.csv`](data/Sales_data_EDA_Exported.csv)
-
 ---
 
 ## 📈 Power BI Dashboard
-
-👉 **Full dashboard (PDF)**:  
-🔗 [`Acme_Sales_Dashboard.pdf`](dashboard/Acme_Sales_Dashboard.pdf)
-
 The analysis is delivered through a **3-page Power BI dashboard**, designed for business stakeholders.
 
 ---
@@ -65,7 +55,8 @@ High-level KPIs and trends for quick decision-making.
 - Revenue by Region and Sales Channel
 
 📸 Preview:  
-![Executive Overview](images/page1_executive_overview.png)
+
+![Executive Overview](page1_executive_overview.png)
 
 ---
 
@@ -79,7 +70,8 @@ Deep dive into product portfolio and sales channels.
 - Volume vs. profitability trade-offs
 
 📸 Preview:  
-![Product & Channel Performance](images/page2_product_channel.png)
+
+![Product & Channel Performance](page2_product_channel.png)
 
 ---
 
@@ -92,7 +84,8 @@ Customer-level insights to assess concentration risk and value distribution.
 - Customer segmentation (Revenue vs. Profit Margin)
 
 📸 Preview:  
-![Customer & Risk Analysis](images/page3_customer_risk.png)
+
+![Customer & Risk Analysis](page3_customer_risk.png)
 
 ---
 
