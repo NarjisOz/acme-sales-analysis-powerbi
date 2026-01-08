@@ -90,18 +90,40 @@ Customer-level insights to assess concentration risk and value distribution.
 ---
 
 ## 💡 Key Business Insights
-- Revenue and profit are highly concentrated across a limited number of products and customers.
-- High revenue does not always imply high profitability, highlighting margin optimization opportunities.
-- Wholesale channel drives sales volume, while Export channel delivers strong margins at lower scale.
-- Customer concentration introduces dependency risk that should be actively managed.
+
+- **Strong overall performance with stable profitability**  
+  From 2014 to 2018, Acme Co. generated approximately **$1B in total revenue** and **$462M in total profit**, maintaining a **stable profit margin around 37%**. This indicates effective cost control despite fluctuations in sales volume.
+
+- **Clear and recurring seasonality in revenue**  
+  Monthly revenue shows a consistent dip in **February (≈ $91M)**, followed by **stronger and more stable performance from April through December**, with multiple monthly peaks above **$105M**.
+
+- **High product revenue concentration**  
+  The **top 5 products account for 37% of total revenue**, indicating a strong dependency on a limited number of products and increasing exposure to product concentration risk.
+
+- **Uneven value contribution across sales channels**  
+  The **Wholesale channel generates the highest revenue ($0.67B)** but delivers lower profitability, while the **Export channel generates lower revenue ($0.18B)** with relatively higher margins.
+
+- **Significant customer concentration risk**  
+  A small number of customers contributes a substantial share of total revenue, with the **top 10 customers generating approximately $109M**, increasing dependency on key accounts.
+
+- **Customer profitability varies significantly**  
+  Several customers achieve **profit margins above 44%**, while some high-revenue customers operate at lower margins, highlighting opportunities for customer-level margin optimization.
 
 ---
 
-## 🚀 Recommendations
-- Protect and optimize top-performing products through pricing discipline and cost control.
-- Improve margins on high-volume products using targeted efficiency initiatives.
-- Selectively scale the Export channel to maximize profitability.
-- Diversify the customer base to reduce revenue concentration risk.
+## 🚀 Managerial Recommendations
+
+- **Protect and optimize top-performing products**  
+  Maintain pricing discipline and cost control on the highest revenue-generating products to preserve their contribution to overall profitability.
+
+- **Optimize the sales channel mix**  
+  Continue leveraging the Wholesale channel for volume while **selectively expanding the Export channel** to improve total profit margins.
+
+- **Adopt differentiated customer strategies**  
+  Prioritize retention of **high-margin customers** and reassess pricing or service conditions for high-volume but low-margin accounts.
+
+- **Reduce concentration risk**  
+  Gradually diversify both the product portfolio and customer base to reduce dependency on a limited number of key revenue drivers.
 
 ---
 
